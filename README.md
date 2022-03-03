@@ -38,7 +38,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 #### Game Patches
 
-Wanna enhance your game? Want to have 60 FPS, infinite ammo or a debug menu?
+Wanna enhance your game? Want to have infinite ammo, a debug menu or remove lens flares?
 
 Check out the canary game patches!
 [Game Patches](https://github.com/xenia-canary/game-patches)
