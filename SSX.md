@@ -1,6 +1,7 @@
 # SSX
 Boxart |   |
 ![](https://download-ssl.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541096d/1033/boxartlg.jpg)
+
 ------ | - |
 
 
