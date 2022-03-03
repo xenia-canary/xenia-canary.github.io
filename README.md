@@ -36,6 +36,13 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
+#### Game Patches
+
+Wanna enhance your game? Want to have 60 FPS, infinite ammo or a debug menu?
+
+Check out the canary game patches!
+[Game Patches](https://github.com/xenia-canary/game-patches)
+
 ### Test include file
 
 {% include_relative SSX.md %}
