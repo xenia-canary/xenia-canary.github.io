@@ -43,6 +43,7 @@ Wanna enhance your game? Want to have 60 FPS, infinite ammo or a debug menu?
 Check out the canary game patches!
 [Game Patches](https://github.com/xenia-canary/game-patches)
 
+_Some patches may degrade performance._
 ### Test include file
 
 {% include_relative SSX.md %}
