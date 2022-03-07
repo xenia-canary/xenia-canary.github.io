@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Contact
+title: Games
 permalink: /games/
 ---
 
