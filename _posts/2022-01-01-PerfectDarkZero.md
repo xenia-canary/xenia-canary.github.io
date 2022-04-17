@@ -8,8 +8,8 @@ categories:
     - games_with_720p_patch
     - games_with_fps_cap
     - games_with_sub_720p_resolution
-#tags:
-#    - game
+tags:
+    - game
 ---
 
 | Boxart      |                    |
