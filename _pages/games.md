@@ -1,13 +1,22 @@
 ---
-layout: single
-title: Games
-permalink: /games/
+layout: archive
 ---
 
-***
+{{ content }}
 
-This can used for games list, with flexible_include tag.
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
-{% flexible_include _posts/2022-01-01-SSX.md %}
+{% if paginator %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
 
-***
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+  {% for post in posts %}
+    {% include archive-single.html type=entries_layout %}
+  {% endfor %}
+</div>
+
+{% include paginator.html %}
