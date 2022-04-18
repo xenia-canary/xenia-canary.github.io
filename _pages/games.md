@@ -1,5 +1,7 @@
 ---
 layout: archive
+title: Games
+permalink: /games/
 ---
 
 {{ content }}
