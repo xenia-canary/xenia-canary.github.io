@@ -213,6 +213,8 @@ whitelist:
   - jekyll-feed
   - jekyll-include-cache
 
+collections:
+  - games
 
 # Archives
 #  Type
