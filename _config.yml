@@ -263,5 +263,6 @@ defaults:
       comments: false # true
       share: false
       related: false
+      show_date: false
 
 show_date: false
