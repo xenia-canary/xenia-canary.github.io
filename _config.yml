@@ -213,6 +213,9 @@ whitelist:
   - jekyll-feed
   - jekyll-include-cache
 
+include:
+  - games
+
 collections:
   - games
 
