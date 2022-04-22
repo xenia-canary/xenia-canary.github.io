@@ -1,7 +1,6 @@
 ---
 layout: single
 title: Tony Hawk's Project 8
-permalink: /TonyHawksProject8/
 categories:
     - Games
     - Games that tie speed to FPS
