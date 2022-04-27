@@ -1,6 +1,7 @@
 ---
 layout: single
 title: SSX
+permalink: /SSX/
 categories:
     - Games
     - Games with 30 FPS cap

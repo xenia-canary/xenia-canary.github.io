@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Perfect Dark Zero
+permalink: /PerfectDarkZero/
 categories:
     - Games
     - Games with 30 FPS cap
