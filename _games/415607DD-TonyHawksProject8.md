@@ -3,9 +3,11 @@ layout: single
 title: Tony Hawk's Project 8
 categories:
     - Games
+    - Games with 60 FPS cap
     - Games that tie speed to FPS
     - Games with 720p patch
     - Games with sub-720p resolution
+    - Games without aspect ratio patch
 tags:
     - Game
 #title_id: 415607DD (AV-2013)

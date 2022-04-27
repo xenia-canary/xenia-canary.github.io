@@ -6,6 +6,7 @@ categories:
     - Games
     - Games with 30 FPS cap
     - Games with 720p patch (broken)
+    - Games with aspect ratio patch
     - Games with FPS cap
     - Games with FPS patch
     - Games with sub-720p resolution
