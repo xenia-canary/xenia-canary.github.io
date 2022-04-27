@@ -12,8 +12,8 @@ jobs:
       - name: Checkout game-patches repo
         uses: actions/checkout@v3
         with:
-          repository: 'xenia-canary/game-patches'
-          path: 'game-patches'
+          repository: xenia-canary/game-patches
+          path: game-patches
 
       - name: Cache
         uses: actions/cache@v3
