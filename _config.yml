@@ -267,5 +267,16 @@ defaults:
       share: false
       related: false
       show_date: false
+  - scope:
+      path: "_games"
+      #type: posts
+    values:
+      layout: single
+      #author_profile: false
+      #read_time: false
+      #comments: false # true
+      #share: false
+      #related: false
+      #show_date: false
 
 show_date: false
