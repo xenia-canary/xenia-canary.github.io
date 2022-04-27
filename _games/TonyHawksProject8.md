@@ -1,5 +1,5 @@
 ---
-#layout: single
+layout: single
 title: Tony Hawk's Project 8
 permalink: /TonyHawksProject8/
 categories:
