@@ -1,6 +1,6 @@
 ---
 layout: single
-title: SSX
+title: "SSX"
 permalink: /SSX/
 categories:
     - Games

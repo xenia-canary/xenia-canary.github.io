@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 50 Cent: Blood on the Sand
+title: "50 Cent: Blood on the Sand"
 permalink: /50CentBloodontheSand/
 categories:
     - Games

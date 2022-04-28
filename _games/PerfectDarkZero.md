@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Perfect Dark Zero
+title: "Perfect Dark Zero"
 permalink: /PerfectDarkZero/
 categories:
     - Games

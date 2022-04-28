@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Burnout Paradise
+title: "Burnout Paradise"
 permalink: /BurnoutParadise(1.00)/
 categories:
     - Games
@@ -10,7 +10,7 @@ categories:
 tags:
     - Game
 #title_id: 45410806 (EA-2054)
-#media_id: 
+#media_id:
 ---
 
 | Boxart                      |                                                                            |
