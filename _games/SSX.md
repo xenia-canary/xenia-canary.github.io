@@ -14,7 +14,7 @@ categories:
 tags:
     - Game
 #title_id: 4541096D (EA-2413)
-#media_id: 55ABAB6C
+media_id: 55ABAB6C
 ---
 
 | Boxart                      |                                           |
