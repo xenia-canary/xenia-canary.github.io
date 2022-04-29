@@ -21,7 +21,7 @@ tags:
 | :----:                      | :-                                        |
 | ![](https://download-ssl.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541096d/1033/boxartlg.jpg) |
 | Title ID(s)                 | 4541096D (EA-2413)                        |
-| Media ID(s)                 | 55ABAB6C                                  |
+| Media ID(s)                 | {{ page.media_id }}                       |
 | Game compatibility issue(s) | [master](https://github.com/xenia-project/game-compatibility/issues/64) |
 | Resolution                  | 3D: 1120x584<br>Everything else: 1280x720 |
 | FPS                         | 30                                        |
