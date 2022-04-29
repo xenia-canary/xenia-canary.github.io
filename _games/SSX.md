@@ -13,23 +13,29 @@ categories:
     - Games with sub-720p resolution
 tags:
     - Game
-title_id:
-    - 4541096D (EA-2413)
-    - 6941096D (EA-6913)
-media_id: [55ABAB6C, 69ABAB6C]
+title_id: 4541096D
+title_id_serial: EA-2413
+media_id: 55ABAB6C
+array_test_1: [A, B]
+array_test_2:
+    - 1
+    - 2
 ---
 
-| Boxart                      |                                           |
-| :----:                      | :-                                        |
+{{ page.array_test_1[1] }}
+{{ page.array_test_2[1] }}
+
+| Boxart                      |                                                  |
+| :----:                      | :-                                               |
 | ![](https://download-ssl.xbox.com/content/images/66acd000-77fe-1000-9115-d8024541096d/1033/boxartlg.jpg) |
-| Title ID(s)                 | {{ page.title_id }}                       |
-| Media ID(s)                 | {{ page.media_id }}                       |
+| Title ID(s)                 | {{ page.title_id }} ({{ page.title_id_serial }}) |
+| Media ID(s)                 | {{ page.media_id }}                              |
 | Game compatibility issue(s) | [master](https://github.com/xenia-project/game-compatibility/issues/64) |
-| Resolution                  | 3D: 1120x584<br>Everything else: 1280x720 |
-| FPS                         | 30                                        |
+| Resolution                  | 3D: 1120x584<br>Everything else: 1280x720        |
+| FPS                         | 30                                               |
 
 ## Patches
-* [4541096D - SSX](https://github.com/xenia-canary/game-patches/blob/main/patches/4541096D%20-%20SSX.toml)
+* [{{ page.title_id }} - SSX](https://github.com/xenia-canary/game-patches/blob/main/patches/4541096D%20-%20SSX.toml)
 
 ## Recommended config options
 See game compatibility issue.
