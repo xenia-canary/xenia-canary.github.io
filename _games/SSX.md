@@ -13,8 +13,10 @@ categories:
     - Games with sub-720p resolution
 tags:
     - Game
-title_id: 4541096D (EA-2413)
-media_id: 55ABAB6C
+title_id:
+    - 4541096D (EA-2413)
+    - 6941096D (EA-6913)
+media_id: [55ABAB6C, 69ABAB6C]
 ---
 
 | Boxart                      |                                           |
