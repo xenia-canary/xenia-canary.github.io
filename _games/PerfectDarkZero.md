@@ -13,13 +13,14 @@ categories:
     - Games without anti-aliasing
 tags:
     - Game
-title_ids: 4D5307D3 (AV-2013)
+title_ids: 4D5307D3
+title_id_serials: AV-2013
 media_ids: 2CB96AE4
 ---
 
 | Boxart      |                    |
 | :----:      | :-                 |
-| ![](https://download-ssl.xbox.com/content/images/66acd000-77fe-1000-9115-d8024d5307d3/1033/boxartlg.jpg) |
+| ![](https://download-ssl.xbox.com/content/images/66acd000-77fe-1000-9115-d802{{ page.title_ids }}/1033/boxartlg.jpg) |
 | Title ID(s) | 4D5307D3 (AV-2013) |
 | Media ID(s) | 2CB96AE4           |
 | Game compatibility issue(s) | [master](https://github.com/xenia-project/game-compatibility/issues/175)<br>[canary](https://github.com/xenia-canary/game-compatibility/issues/77) |
@@ -27,4 +28,4 @@ media_ids: 2CB96AE4
 | FPS         | 30                 |
 
 ## Patches
-* [4D5307D3 - Perfect Dark Zero](https://github.com/xenia-canary/game-patches/blob/main/patches/4D5307D3 - Perfect Dark Zero.toml)
+* [{{ page.title_ids }} - Perfect Dark Zero](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ page.title_ids }} - Perfect Dark Zero.toml)
