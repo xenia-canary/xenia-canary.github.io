@@ -13,8 +13,8 @@ categories:
     - Games without anti-aliasing
 tags:
     - Game
-#title_id: 4D5307D3 (AV-2013)
-#media_id: 2CB96AE4
+title_ids: 4D5307D3 (AV-2013)
+media_ids: 2CB96AE4
 ---
 
 | Boxart      |                    |
@@ -27,4 +27,4 @@ tags:
 | FPS         | 30                 |
 
 ## Patches
-* [4D5307D3 - Perfect Dark Zero](https://github.com/xenia-canary/game-patches/blob/main/patches/4D5307D3%20-%20Perfect%20Dark%20Zero.toml)
+* [4D5307D3 - Perfect Dark Zero](https://github.com/xenia-canary/game-patches/blob/main/patches/4D5307D3 - Perfect Dark Zero.toml)
