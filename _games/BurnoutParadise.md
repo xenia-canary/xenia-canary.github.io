@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Burnout Paradise"
-permalink: /BurnoutParadise(1.00)/
+permalink: /BurnoutParadise/
 categories:
     - Games
     - Games without 720p patch
