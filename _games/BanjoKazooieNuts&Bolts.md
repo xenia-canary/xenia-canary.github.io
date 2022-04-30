@@ -4,13 +4,14 @@ title: "Banjo-Kazooie: Nuts & Bolts"
 permalink: /BanjoKazooieNuts&Bolts/
 categories:
     - Games
-    - Games without 720p patch
-    - Games without aspect ratio patch
     - Games with 30 FPS cap
     - Games with FPS cap
     - Games with FPS patch
+    - Games without 720p patch
+    - Games without aspect ratio patch
 tags:
     - Game
+title_patch: "Banjo-Kazooie Nuts & Bolts"
 title_ids: 4D5307ED
 title_id_serials: MS-2029
 media_ids: 3E567DFF
@@ -26,4 +27,4 @@ media_ids: 3E567DFF
 | FPS                         | 30                                                                                     |
 
 ## Patches
-* [{{ page.title_ids }} - Banjo-Kazooie Nuts & Bolts](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ page.title_ids }} - Banjo-Kazooie Nuts & Bolts.toml)
+* [{{ page.title_ids }} - {{ page.title_patch }}](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ page.title_ids }} - {{ page.title_patch }}.toml)

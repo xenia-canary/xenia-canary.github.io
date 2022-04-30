@@ -4,11 +4,11 @@ title: "Banjo-Tooie"
 permalink: /BanjoTooie/
 categories:
     - Games
-    - Games without 720p patch
-    - Games without aspect ratio patch
     - Games with 30 FPS cap
     - Games with FPS cap
     - Games with FPS patch
+    - Games without 720p patch
+    - Games without aspect ratio patch
 tags:
     - Game
 title_ids: 58410955

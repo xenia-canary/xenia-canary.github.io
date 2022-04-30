@@ -4,13 +4,14 @@ title: "50 Cent: Blood on the Sand"
 permalink: /50CentBloodontheSand/
 categories:
     - Games
-    - Games without 720p patch
-    - Games without aspect ratio patch
     - Games with 30 FPS cap
     - Games with FPS cap
     - Games with FPS patch
+    - Games without 720p patch
+    - Games without aspect ratio patch
 tags:
     - Game
+title_patch: "50 Cent Blood on the Sand"
 title_ids: 5451083B
 title_id_serials: TQ-2107
 media_ids: 6FF4F789
@@ -26,4 +27,4 @@ media_ids: 6FF4F789
 | FPS                         | 30                                                                                     |
 
 ## Patches
-* [{{ page.title_ids }} - 50 Cent Blood on the Sand](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ page.title_ids }} - 50 Cent Blood on the Sand.toml)
+* [{{ page.title_ids }} - {{ page.title_patch }}](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ page.title_ids }} - {{ page.title_patch }}.toml)

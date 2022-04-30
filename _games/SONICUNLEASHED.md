@@ -4,6 +4,7 @@ title: "SONIC UNLEASHED"
 permalink: /SONICUNLEASHED/
 categories:
     - Games
+    - Games without media ID
     - Games with 720p patch
     - Games with sub-720p resolution
     - Games with aspect ratio patch
@@ -21,9 +22,9 @@ title_id_serials: SE-2066
 | :----:                      | :-                                                                                     |
 | ![](https://download-ssl.xbox.com/content/images/66acd000-77fe-1000-9115-d802{{ page.title_ids }}/1033/boxartlg.jpg) |
 | Title ID(s)                 | {{ page.title_ids }} ({{ page.title_id_serials }})                                     |
-| Media ID(s)                 |                                                                    |
+| Media ID(s)                 |                                                                                        |
 | Game compatibility issue(s) | [master](https://github.com/xenia-project/game-compatibility/issues/)<br>[canary](https://github.com/xenia-canary/game-compatibility/issues/) |
-| Resolution                  | 880x720                                                                   |
+| Resolution                  | 880x720                                                                                |
 | FPS                         | 30                                                                                     |
 
 ## Patches

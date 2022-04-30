@@ -4,13 +4,14 @@ title: "Army of Two: The 40th Day"
 permalink: /ArmyofTwoThe40thDay/
 categories:
     - Games
-    - Games without 720p patch
-    - Games without aspect ratio patch
     - Games with 30 FPS cap
     - Games with FPS cap
     - Games with FPS patch
+    - Games without 720p patch
+    - Games without aspect ratio patch
 tags:
     - Game
+title_patch: "Army of Two The 40th Day"
 title_ids: 454108D8
 title_id_serials: EA-2264
 media_ids: 44388CF4
@@ -26,4 +27,4 @@ media_ids: 44388CF4
 | FPS                         | 30                                                                                     |
 
 ## Patches
-* [{{ page.title_ids }} - Army of Two The 40th Day](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ page.title_ids }} - Army of Two The 40th Day.toml)
+* [{{ page.title_ids }} - {{ page.title_patch }}](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ page.title_ids }} - {{ page.title_patch }}.toml)

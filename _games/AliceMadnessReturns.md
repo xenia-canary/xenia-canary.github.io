@@ -11,6 +11,7 @@ categories:
     - Games with FPS patch
 tags:
     - Game
+title_patch: "Alice Madness Returns"
 title_ids: 45410916
 title_id_serials: EA-2326
 media_ids: 31C4B45C
@@ -26,4 +27,4 @@ media_ids: 31C4B45C
 | FPS                         | 30                                                                                     |
 
 ## Patches
-* [{{ page.title_ids }} - Alice Madness Returns](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ page.title_ids }} - Alice Madness Returns.toml)
+* [{{ page.title_ids }} - {{ page.title_patch }}](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ page.title_ids }} - {{ page.title_patch }}.toml)

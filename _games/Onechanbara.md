@@ -7,6 +7,7 @@ categories:
     - Games without 720p patch
     - Games without aspect ratio patch
     - Games without FPS patch
+    - Games without media ID
 tags:
     - Game
 title_ids: 445007EA
@@ -18,7 +19,7 @@ title_id_serials: DP-2026
 | :----:                      | :-                                                                                     |
 | ![](https://download-ssl.xbox.com/content/images/66acd000-77fe-1000-9115-d802{{ page.title_ids }}/1033/boxartlg.jpg) |
 | Title ID(s)                 | {{ page.title_ids }} ({{ page.title_id_serials }})                                     |
-| Media ID(s)                 |                                                                    |
+| Media ID(s)                 |                                                                                        |
 | Game compatibility issue(s) | [master](https://github.com/xenia-project/game-compatibility/issues/)<br>[canary](https://github.com/xenia-canary/game-compatibility/issues/) |
 | Resolution                  | ####x###                                                                               |
 | FPS                         | 60                                                                                     |
