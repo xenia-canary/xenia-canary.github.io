@@ -4,11 +4,11 @@ title: "Amped 3"
 permalink: /Amped3/
 categories:
     - Games
-    - Games without 720p patch
-    - Games without aspect ratio patch
     - Games with 30 FPS cap
     - Games with FPS cap
     - Games with FPS patch
+    - Games without 720p patch
+    - Games without aspect ratio patch
 tags:
     - Game
 title_ids: 545407D4

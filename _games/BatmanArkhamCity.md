@@ -11,7 +11,7 @@ categories:
 tags:
     - Game
 title_patch: "Batman Arkham City"
-title_ids: 57520802
+#title_ids:
 title_id_serials: WR-2050
 #media_ids:
 ---
@@ -21,7 +21,7 @@ title_id_serials: WR-2050
 | ![](https://download-ssl.xbox.com/content/images/66acd000-77fe-1000-9115-d802{{ page.title_ids }}/1033/boxartlg.jpg) |
 | Title ID(s)                 | {{ page.title_ids }} ({{ page.title_id_serials }})                                     |
 | Media ID(s)                 |                                                                                        |
-| Game compatibility issue(s) | [master](https://github.com/xenia-project/game-compatibility/issues/317)               |
+| Game compatibility issue(s) | [master](https://github.com/xenia-project/game-compatibility/issues/)                  |
 | Resolution                  | ####x###                                                                               |
 | FPS                         | 60                                                                                     |
 
