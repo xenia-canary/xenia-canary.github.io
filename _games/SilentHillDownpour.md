@@ -22,7 +22,7 @@ media_ids: 7D387D17
 | Title ID(s)                 | {{ page.title_ids }} ({{ page.title_id_serials }})                                     |
 | Media ID(s)                 | {{ page.media_ids }}                                                                   |
 | Game compatibility issue(s) | [master](https://github.com/xenia-project/game-compatibility/issues/)<br>[canary](https://github.com/xenia-canary/game-compatibility/issues/) |
-| Resolution                  | ####x###                                                                               |
+| Resolution(s)               | ####x###                                                                               |
 | FPS                         | 30                                                                                     |
 
 ## Patches

@@ -22,7 +22,7 @@ media_ids: 1D93E609
 | Title ID(s)                 | {{ page.title_ids }} ({{ page.title_id_serials }})                                     |
 | Media ID(s)                 | {{ page.media_ids }}                                                                   |
 | Game compatibility issue(s) | [master](https://github.com/xenia-project/game-compatibility/issues/510)               |
-| Resolution                  | ####x###                                                                               |
+| Resolution(s)               | ####x###                                                                               |
 | FPS                         | 30                                                                                     |
 
 ## Patches

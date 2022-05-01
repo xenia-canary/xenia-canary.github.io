@@ -4,6 +4,7 @@ title: "Banjo-Kazooie"
 permalink: /BanjoKazooie/
 categories:
     - Games
+    - Games that support 1080p
     - Games with 30 FPS cap
     - Games with FPS cap
     - Games with FPS patch
@@ -22,7 +23,7 @@ media_ids: 69C685B7
 | Title ID(s)                 | {{ page.title_ids }} ({{ page.title_id_serials }})                                     |
 | Media ID(s)                 | {{ page.media_ids }}                                                                   |
 | Game compatibility issue(s) | [master](https://github.com/xenia-project/game-compatibility/issues/206)               |
-| Resolution                  | ####x###                                                                               |
+| Resolution(s)               | 1280x720<br>1920x1080                                                                  |
 | FPS                         | 30                                                                                     |
 
 ## Patches

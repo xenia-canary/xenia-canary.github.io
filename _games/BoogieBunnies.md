@@ -21,7 +21,7 @@ media_ids: 6AA3404F
 | Title ID(s)                 | {{ page.title_ids }} ({{ page.title_id_serials }})                                     |
 | Media ID(s)                 | {{ page.media_ids }}                                                                   |
 | Game compatibility issue(s) | [master](https://github.com/xenia-project/game-compatibility/issues/1925)              |
-| Resolution                  | 1920x1080                                                                              |
+| Resolution(s)               | 1920x1080                                                                              |
 | FPS                         | 60                                                                                     |
 
 ## Patches

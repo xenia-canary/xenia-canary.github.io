@@ -21,7 +21,7 @@ media_ids: 6876EE29
 | Title ID(s)                 | {{ page.title_ids }} ({{ page.title_id_serials }})                                     |
 | Media ID(s)                 | {{ page.media_ids }}                                                                   |
 | Game compatibility issue(s) |                                                                                        |
-| Resolution                  | 640x480                                                                                |
+| Resolution(s)               | 640x480                                                                                |
 | FPS                         | 60                                                                                     |
 
 ## Patches

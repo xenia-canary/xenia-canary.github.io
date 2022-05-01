@@ -24,7 +24,7 @@ title_id_serials: EA-2054
 | Title ID(s)                 | {{ page.title_ids }} ({{ page.title_id_serials }})                                     |
 | Media ID(s)                 |                                                                                        |
 | Game compatibility issue(s) | [master](https://github.com/xenia-project/game-compatibility/issues/1900)              |
-| Resolution                  | ####x###                                                                               |
+| Resolution(s)               | ####x###                                                                               |
 | FPS                         | 60, 30                                                                                 |
 
 ## Patches

@@ -4,8 +4,8 @@ title: "Halo 3: ODST"
 permalink: /Halo3ODST/
 categories:
     - Games
-    - Games without 720p patch
     - Games with aspect ratio patch
+    - Games without 720p patch
     - Games without FPS patch
 tags:
     - Game
@@ -21,7 +21,7 @@ media_ids: 2299898F
 | Title ID(s)                 | {{ page.title_ids }} ({{ page.title_id_serials }})                                     |
 | Media ID(s)                 | {{ page.media_ids }}                                                                   |
 | Game compatibility issue(s) | [master](https://github.com/xenia-project/game-compatibility/issues/179)               |
-| Resolution                  | ####x###                                                                               |
+| Resolution(s)               | ####x###                                                                               |
 | FPS                         | 60                                                                                     |
 
 ## Patches

@@ -4,11 +4,11 @@ title: "Hail to the Chimp"
 permalink: /HailtotheChimp/
 categories:
     - Games
-    - Games without 720p patch
-    - Games without aspect ratio patch
     - Games with 30 FPS cap
     - Games with FPS cap
     - Games with FPS patch
+    - Games without 720p patch
+    - Games without aspect ratio patch
 tags:
     - Game
 title_ids: 475007D2
@@ -22,7 +22,7 @@ media_ids: 773093A4
 | Title ID(s)                 | {{ page.title_ids }} ({{ page.title_id_serials }})                                     |
 | Media ID(s)                 | {{ page.media_ids }}                                                                   |
 | Game compatibility issue(s) |                                                                                        |
-| Resolution                  | ####x###                                                                               |
+| Resolution(s)               | ####x###                                                                               |
 | FPS                         | 30                                                                                     |
 
 ## Patches

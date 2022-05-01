@@ -24,7 +24,7 @@ title_id_serials: SE-2066
 | Title ID(s)                 | {{ page.title_ids }} ({{ page.title_id_serials }})                                     |
 | Media ID(s)                 |                                                                                        |
 | Game compatibility issue(s) | [master](https://github.com/xenia-project/game-compatibility/issues/)<br>[canary](https://github.com/xenia-canary/game-compatibility/issues/) |
-| Resolution                  | 880x720                                                                                |
+| Resolution(s)               | 880x720                                                                                |
 | FPS                         | 30                                                                                     |
 
 ## Patches

@@ -21,7 +21,7 @@ title_id_serials: MS-2320
 | Title ID(s)                 | {{ page.title_ids }} ({{ page.title_id_serials }})                                     |
 | Media ID(s)                 |                                                                                        |
 | Game compatibility issue(s) | [master](https://github.com/xenia-project/game-compatibility/issues/442)<br>[canary](https://github.com/xenia-canary/game-compatibility/issues/75) |
-| Resolution                  | ####x###                                                                               |
+| Resolution(s)               | ####x###                                                                               |
 | FPS                         | 60                                                                                     |
 
 ## Patches

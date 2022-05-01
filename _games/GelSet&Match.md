@@ -5,8 +5,8 @@ permalink: /GelSet&Match/
 categories:
     - Games
     - Games without 720p patch
-    - Games with aspect ratio patch
     - Games without FPS patch
+    - Games with aspect ratio patch
 tags:
     - Game
 title_patch: "Gel Set & Match"
@@ -21,7 +21,7 @@ media_ids: 5DEAE719
 | Title ID(s)                 | {{ page.title_ids }} ({{ page.title_id_serials }})                                     |
 | Media ID(s)                 | {{ page.media_ids }}                                                                   |
 | Game compatibility issue(s) | [master](https://github.com/xenia-project/game-compatibility/issues/1837)              |
-| Resolution                  | ####x###                                                                               |
+| Resolution(s)               | ####x###                                                                               |
 | FPS                         | 60                                                                                     |
 
 ## Patches

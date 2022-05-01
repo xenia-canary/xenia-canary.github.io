@@ -25,7 +25,7 @@ media_ids: 716F0A0D
 | Title ID(s)                 | {{ page.title_ids }} ({{ page.title_id_serials }})                                     |
 | Media ID(s)                 | {{ page.media_ids }}                                                                   |
 | Game compatibility issue(s) | [master](https://github.com/xenia-project/game-compatibility/issues/205)<br>[canary](https://github.com/xenia-canary/game-compatibility/issues/74) |
-| Resolution                  | 1120x720                                                                               |
+| Resolution(s)               | 1120x720                                                                               |
 | FPS                         | 30                                                                                     |
 
 ## Patches

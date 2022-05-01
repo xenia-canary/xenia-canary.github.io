@@ -4,11 +4,11 @@ title: "Gears of War: Judgment"
 permalink: /GearsofWarJudgment/
 categories:
     - Games
-    - Games without 720p patch
-    - Games without aspect ratio patch
     - Games with 30 FPS cap
     - Games with FPS cap
     - Games with FPS patch
+    - Games without 720p patch
+    - Games without aspect ratio patch
 tags:
     - Game
 title_patch: "Gears of War Judgment"
@@ -23,7 +23,7 @@ media_ids: 6DCAF3C2
 | Title ID(s)                 | {{ page.title_ids }} ({{ page.title_id_serials }})                                     |
 | Media ID(s)                 | {{ page.media_ids }}                                                                   |
 | Game compatibility issue(s) | [master](https://github.com/xenia-project/game-compatibility/issues/585)<br>[canary](https://github.com/xenia-canary/game-compatibility/issues/45) |
-| Resolution                  | ####x###                                                                               |
+| Resolution(s)               | ####x###                                                                               |
 | FPS                         | 30                                                                                     |
 
 ## Patches
