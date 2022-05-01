@@ -4,9 +4,9 @@ title: "Gel: Set & Match"
 permalink: /GelSet&Match/
 categories:
     - Games
+    - Games with aspect ratio patch
     - Games without 720p patch
     - Games without FPS patch
-    - Games with aspect ratio patch
 tags:
     - Game
 title_patch: "Gel Set & Match"

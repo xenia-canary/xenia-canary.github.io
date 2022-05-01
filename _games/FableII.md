@@ -4,12 +4,11 @@ title: "Fable II"
 permalink: /FableII/
 categories:
     - Games
-    - Games with 720p patch
     - Games with 30 FPS cap
+    - Games with 720p patch
     - Games with FPS cap
     - Games with FPS patch
     - Games with sub-720p resolution
-    - Games with FPS patch
     - Games without 720p patch
     - Games without aspect ratio patch
 tags:

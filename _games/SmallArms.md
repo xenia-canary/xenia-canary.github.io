@@ -5,8 +5,8 @@ permalink: /SmallArms/
 categories:
     - Games
     - Games with 720p patch
-    - Games with sub-720p resolution
     - Games with aspect ratio patch
+    - Games with sub-720p resolution
     - Games without FPS patch
 tags:
     - Game
