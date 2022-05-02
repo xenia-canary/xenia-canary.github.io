@@ -21,8 +21,8 @@ title_id_serials:
 media_ids: 4835CB45
 ---
 
-| Boxart                      |                                                                                           |
-| :----:                      | :-                                                                                        |
+| Cover art                   |                                                                                           |
+| :-------:                   | :-                                                                                        |
 | ![](https://download-ssl.xbox.com/content/images/66acd000-77fe-1000-9115-d802{{ page.title_ids[0] }}/1033/boxartlg.jpg) |
 | Title ID(s)                 | {{ page.title_ids[0] }} ({{ page.title_id_serials[0] }})<br>Demo: {{ page.title_ids[1] }} ({{ page.title_id_serials[1] }}) |
 | Media ID(s)                 | Demo: {{ page.media_ids }}                                                                |

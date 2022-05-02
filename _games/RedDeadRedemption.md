@@ -18,8 +18,8 @@ media_ids:
     - 3EE87B76 # GOTY
 ---
 
-| Boxart                      |                                                                                        |
-| :----:                      | :-                                                                                     |
+| Cover art                   |                                                                                        |
+| :-------:                   | :-                                                                                     |
 | ![](https://download-ssl.xbox.com/content/images/66acd000-77fe-1000-9115-d802{{ page.title_ids }}/1033/boxartlg.jpg) |
 | Title ID(s)                 | {{ page.title_ids }} ({{ page.title_id_serials }})                                     |
 | Media ID(s)                 | {{ page.media_ids[0] }}<br>GOTY: {{ page.media_ids[1] }}                               |

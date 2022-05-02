@@ -14,8 +14,8 @@ title_id_serials: CC-2004
 media_ids: 5B2A79D5
 ---
 
-| Boxart                      |                                                                                        |
-| :----:                      | :-                                                                                     |
+| Cover art                   |                                                                                        |
+| :-------:                   | :-                                                                                     |
 | ![](https://download-ssl.xbox.com/content/images/66acd000-77fe-1000-9115-d802{{ page.title_ids }}/1033/boxartlg.jpg) |
 | Title ID(s)                 | {{ page.title_ids }} ({{ page.title_id_serials }})                                     |
 | Media ID(s)                 | {{ page.media_ids }}                                                                   |

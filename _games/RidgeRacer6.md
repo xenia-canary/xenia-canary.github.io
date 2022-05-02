@@ -15,8 +15,8 @@ title_id_serials: NM-2003
 media_ids: 03F77EEF
 ---
 
-| Boxart                      |                                                                                        |
-| :----:                      | :-                                                                                     |
+| Cover art                   |                                                                                        |
+| :-------:                   | :-                                                                                     |
 | ![](https://download-ssl.xbox.com/content/images/66acd000-77fe-1000-9115-d802{{ page.title_ids }}/1033/boxartlg.jpg) |
 | Title ID(s)                 | {{ page.title_ids }} ({{ page.title_id_serials }})                                     |
 | Media ID(s)                 | {{ page.media_ids }}                                                                   |
