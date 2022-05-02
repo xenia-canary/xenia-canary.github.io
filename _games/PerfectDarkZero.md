@@ -18,9 +18,9 @@ title_id_serials: AV-2013
 media_ids: 2CB96AE4
 ---
 
-| Cover art                   |                                                                                        |
-| :-------:                   | :-                                                                                     |
-| ![](https://download-ssl.xbox.com/content/images/66acd000-77fe-1000-9115-d802{{ page.title_ids }}/1033/boxartlg.jpg) |
+| Box art                     |                                                                                        |
+| :-----:                     | :-                                                                                     |
+| ![Boxart](https://download-ssl.xbox.com/content/images/66acd000-77fe-1000-9115-d802{{ page.title_ids }}/1033/boxartlg.jpg) |
 | Title ID(s)                 | 4D5307D3 (AV-2013)                                                                     |
 | Media ID(s)                 | 2CB96AE4                                                                               |
 | Game compatibility issue(s) | [master](https://github.com/xenia-project/game-compatibility/issues/175)<br>[canary](https://github.com/xenia-canary/game-compatibility/issues/77) |

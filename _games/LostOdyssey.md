@@ -24,9 +24,9 @@ media_ids:
     - 1C347005 # NTSC-J
 ---
 
-| Cover art                   |                                                                                        |
-| :-------:                   | :-                                                                                     |
-| ![](https://download-ssl.xbox.com/content/images/66acd000-77fe-1000-9115-d802{{ page.title_ids }}/1033/boxartlg.jpg) |
+| Box art                     |                                                                                        |
+| :-----:                     | :-                                                                                     |
+| ![Boxart](https://download-ssl.xbox.com/content/images/66acd000-77fe-1000-9115-d802{{ page.title_ids }}/1033/boxartlg.jpg) |
 | Title ID(s)                 | {{ page.title_ids }} ({{ page.title_id_serials }})                                     |
 | Media ID(s)                 | {{ page.media_ids[0] }}<br>{{ page.media_ids[1] }}<br>{{ page.media_ids[2] }}<br>{{ page.media_ids[3] }}<br>NTSC-J:<br>{{ page.media_ids[4] }}<br>{{ page.media_ids[5] }}<br>{{ page.media_ids[6] }}<br>{{ page.media_ids[7] }} |
 | Game compatibility issue(s) | [master](https://github.com/xenia-project/game-compatibility/issues/298)<br>[canary](https://github.com/xenia-canary/game-compatibility/issues/4) |

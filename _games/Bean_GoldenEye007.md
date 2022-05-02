@@ -14,8 +14,8 @@ title_id_serials: XA-2217
 media_ids: 00000000
 ---
 
-| Cover art                   |                                                                                        |
-| :-------:                   | :-                                                                                     |
+| Box art                     |                                                                                        |
+| :-----:                     | :-                                                                                     |
 | N/A                         |                                                                                        |
 | Title ID(s)                 | {{ page.title_ids }} ({{ page.title_id_serials }})                                     |
 | Media ID(s)                 | {{ page.media_ids }}                                                                   |
