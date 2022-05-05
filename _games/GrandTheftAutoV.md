@@ -25,4 +25,4 @@ media_ids: 79E465C5
 | FPS                         | 30
 
 ## Patches
-* [{{ title_patch }}](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ title_patch }}.patch.toml)
+* [{{ title_patch }} (TU18)](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ title_patch }} (TU18).patch.toml)
