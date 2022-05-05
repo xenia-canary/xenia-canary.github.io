@@ -21,7 +21,7 @@ media_ids: 716F0A0D
 
 | Box art                     |
 | :-----:                     | :-
-| ![Boxart](https://download-ssl.xbox.com/content/images/66acd000-77fe-1000-9115-d802{{ page.title_ids }}/1033/boxartlg.jpg)
+| ![Boxart](https://download-ssl.xbox.com/content/images/66acd000-77fe-1000-9115-d802{{ page.title_ids | downcase }}/1033/boxartlg.jpg)
 | Title ID(s)                 | {{ page.title_ids }} ({{ page.title_id_serials }})
 | Media ID(s)                 | {{ page.media_ids }}
 | Game compatibility issue(s) | [master](https://github.com/xenia-project/game-compatibility/issues/205)<br>[canary](https://github.com/xenia-canary/game-compatibility/issues/74)
@@ -29,5 +29,5 @@ media_ids: 716F0A0D
 | FPS                         | 30
 
 ## Patches
-* [{{ page.title_ids }} - {{ page.title }} (GOTY_Platinum Edition)](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ page.title_ids }} - {{ page.title }} (GOTY_Platinum Edition).patch.toml)
-* [{{ page.title_ids }} - {{ page.title }} (GOTY_Platinum Edition, TU1)](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ page.title_ids }} - {{ page.title }} (GOTY_Platinum Edition, TU1).patch.toml)
+* [{{ title_patch }} (GOTY_Platinum Edition)](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ title_patch }} (GOTY_Platinum Edition).patch.toml)
+* [{{ title_patch }} (GOTY_Platinum Edition, TU1)](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ title_patch }} (GOTY_Platinum Edition, TU1).patch.toml)

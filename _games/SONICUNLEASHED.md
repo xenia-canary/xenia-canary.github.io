@@ -30,4 +30,4 @@ media_ids: 4BED0DDE
 
 ## Patches
 * [{{ title_patch }}](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ title_patch }}.patch.toml)
-* [{{ page.title_ids }} - {{ page.title }} (TU2)](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ page.title_ids }} - {{ page.title }} (TU2).patch.toml)
+* [{{ title_patch }} (TU2)](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ title_patch }} (TU2).patch.toml)

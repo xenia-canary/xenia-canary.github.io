@@ -13,7 +13,6 @@ categories:
     - Games without media ID
 tags:
     - Game
-title_patch: "Kameo Elements of Power"
 title_ids:
     - 4D5307D2
     - 4D5387E9
@@ -24,7 +23,7 @@ title_id_serials:
     - MS-34784
 #media_ids:
 ---
-{% capture title_patch %}{{ page.title_ids }} - {{ page.title }}{% endcapture %}
+{% capture title_patch %}{{ page.title_ids }} - {{ page.title | remove: ":" }}{% endcapture %}
 
 | Box art                     |
 | :-----:                     | :-

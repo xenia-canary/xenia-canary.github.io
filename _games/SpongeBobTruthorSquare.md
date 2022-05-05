@@ -9,12 +9,11 @@ categories:
     - Games without FPS patch
 tags:
     - Game
-title_patch: "SpongeBob - Truth or Square"
 title_ids: 54510850
 title_id_serials: TQ-2128
 media_ids: 675568DB
 ---
-{% capture title_patch %}{{ page.title_ids }} - {{ page.title }}{% endcapture %}
+{% capture title_patch %}{{ page.title_ids }} - {{ page.title | replace: ":", " -" }}{% endcapture %}
 
 | Box art                     |
 | :-----:                     | :-
@@ -26,4 +25,4 @@ media_ids: 675568DB
 | FPS                         | 60
 
 ## Patches
-* [{{ page.title_ids }} - {{ page.title_patch }}](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ page.title_ids }} - {{ page.title_patch }}.patch.toml)
+* [{{ title_patch }}](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ title_patch }}.patch.toml)

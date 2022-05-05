@@ -9,16 +9,15 @@ categories:
     - Games without FPS patch
 tags:
     - Game
-title_patch: "Call of Juarez Gunslinger"
 title_ids: 584112B0
 title_id_serials: XA-4784
 media_ids: 7FDF8AC7
 ---
-{% capture title_patch %}{{ page.title_ids }} - {{ page.title }}{% endcapture %}
+{% capture title_patch %}{{ page.title_ids }} - {{ page.title | remove: ":" }}{% endcapture %}
 
 | Box art                     |
 | :-----:                     | :-
-| ![Boxart](https://download-ssl.xbox.com/content/images/66acd000-77fe-1000-9115-d802{{ page.title_ids }}/1033/boxartlg.jpg)
+| ![Boxart](https://download-ssl.xbox.com/content/images/66acd000-77fe-1000-9115-d802{{ page.title_ids | downcase }}/1033/boxartlg.jpg)
 | Title ID(s)                 | {{ page.title_ids }} ({{ page.title_id_serials }})
 | Media ID(s)                 | {{ page.media_ids }}
 | Game compatibility issue(s) | [master](https://github.com/xenia-project/game-compatibility/issues/1489)<br>[canary](https://github.com/xenia-canary/game-compatibility/issues/22)
@@ -26,4 +25,4 @@ media_ids: 7FDF8AC7
 | FPS                         | 60
 
 ## Patches
-* [{{ page.title_ids }} - {{ page.title_patch }}](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ page.title_ids }} - {{ page.title_patch }}.patch.toml)
+* [{{ title_patch }}](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ title_patch }}.patch.toml)

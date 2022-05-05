@@ -9,12 +9,11 @@ categories:
     - Games without FPS patch
 tags:
     - Game
-title_patch: "Transformers-Rise of The Dark Spark"
 title_ids: 41560904
 title_id_serials: AV-2308
 media_ids: 50D83F2D
 ---
-{% capture title_patch %}{{ page.title_ids }} - {{ page.title }}{% endcapture %}
+{% capture title_patch %}{{ page.title_ids }} - {{ page.title | replace: ":", "-" }}{% endcapture %}
 
 | Box art                     |
 | :-----:                     | :-
@@ -26,4 +25,4 @@ media_ids: 50D83F2D
 | FPS                         | 60
 
 ## Patches
-* [{{ page.title_ids }} - {{ page.title_patch }}](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ page.title_ids }} - {{ page.title_patch }}.patch.toml)
+* [{{ title_patch }}](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ title_patch }}.patch.toml)

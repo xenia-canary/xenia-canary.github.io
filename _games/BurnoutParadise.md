@@ -29,5 +29,5 @@ title_id_serials: EA-2054
 | FPS                         | 60, 30
 
 ## Patches
-* [{{ page.title_ids }} - {{ page.title }} (1.00)](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ page.title_ids }} - {{ page.title }} (1.00).patch.toml)
-* [{{ page.title_ids }} - {{ page.title }} (Screenshot)](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ page.title_ids }} - {{ page.title }} (Screenshot).patch.toml)
+* [{{ title_patch }} (1.00)](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ title_patch }} (1.00).patch.toml)
+* [{{ title_patch }} (Screenshot)](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ title_patch }} (Screenshot).patch.toml)

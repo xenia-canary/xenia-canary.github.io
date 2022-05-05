@@ -9,12 +9,11 @@ categories:
     - Games without FPS patch
 tags:
     - Game
-title_patch: "Gel Set & Match"
 title_ids: 58410908
 title_id_serials: XA-2312
 media_ids: 5DEAE719
 ---
-{% capture title_patch %}{{ page.title_ids }} - {{ page.title }}{% endcapture %}
+{% capture title_patch %}{{ page.title_ids }} - {{ page.title | remove: ":" }}{% endcapture %}
 
 | Box art                     |
 | :-----:                     | :-
@@ -26,4 +25,4 @@ media_ids: 5DEAE719
 | FPS                         | 60
 
 ## Patches
-* [{{ page.title_ids }} - {{ page.title_patch }}](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ page.title_ids }} - {{ page.title_patch }}.patch.toml)
+* [{{ title_patch }}](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ title_patch }}.patch.toml)
