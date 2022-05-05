@@ -26,4 +26,4 @@ media_ids: 44388CF4
 | FPS                         | 30
 
 ## Patches
-* [{{ page.title_ids }} - {{ page.title_patch | remove: ":" }}](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ page.title_ids }} - {{ page.title_patch | remove: ":" }}.toml)
+* [{{ page.title_ids }} - {{ page.title_patch | remove: "A" }}](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ page.title_ids }} - {{ page.title_patch | remove: ":" }}.toml)
