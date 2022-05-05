@@ -16,10 +16,6 @@ title_id_serials: EA-2264
 media_ids: 44388CF4
 ---
 
-{% capture title_patch %}
-{{ page.title_patch | remove: ":" }}
-{% endcapture %}
-
 | Box art                     |
 | :-----:                     | :-
 | ![Boxart](https://download-ssl.xbox.com/content/images/66acd000-77fe-1000-9115-d802{{ page.title_ids | downcase }}/1033/boxartlg.jpg)
@@ -30,4 +26,4 @@ media_ids: 44388CF4
 | FPS                         | 30
 
 ## Patches
-* [{{ page.title_ids }} - {{ title_patch }}](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ page.title_ids }} - {{ title_patch }}.toml)
+* [{{ page.title_ids }} - {{ page.title_patch | remove: ":" }}](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ page.title_ids }} - {{ page.title_patch | remove: ":" }}.toml)
