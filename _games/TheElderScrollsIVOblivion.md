@@ -27,4 +27,4 @@ media_ids: 013FE217
 | FPS                         | 30
 
 ## Patches
-* [{{ page.title_ids }} - {{ page.title }} (GOTY)](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ page.title_ids }} - {{ page.title }} (GOTY).toml)
+* [{{ page.title_ids }} - {{ page.title }} (GOTY)](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ page.title_ids }} - {{ page.title }} (GOTY).patch.toml)

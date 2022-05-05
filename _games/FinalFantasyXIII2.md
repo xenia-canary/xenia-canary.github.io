@@ -31,5 +31,5 @@ media_ids: 4835CB45
 | FPS                         | 30
 
 ## Patches
-* [{{ page.title_ids[0] }} - {{ page.title }}](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ page.title_ids }} - {{ page.title }}.toml)
-* [{{ page.title_ids[1] }} - {{ page.title }} Demo](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ page.title_ids }} - {{ page.title }} Demo.toml)
+* [{{ page.title_ids[0] }} - {{ page.title }}](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ page.title_ids }} - {{ page.title }}.patch.toml)
+* [{{ page.title_ids[1] }} - {{ page.title }} Demo](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ page.title_ids }} - {{ page.title }} Demo.patch.toml)

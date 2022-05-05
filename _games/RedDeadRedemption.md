@@ -28,7 +28,7 @@ media_ids:
 | FPS                         | 30
 
 ## Patches
-* [{{ page.title_ids }} - {{ page.title }} (Original, NTSC)](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ page.title_ids }} - {{ page.title }} (Original, NTSC).toml)
-* [{{ page.title_ids }} - {{ page.title }} (Original, NTSC, TU9)](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ page.title_ids }} - {{ page.title }} (Original, NTSC, TU9).toml)
-* [{{ page.title_ids }} - {{ page.title }} (GOTY, Disc 1)](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ page.title_ids }} - {{ page.title }} (GOTY, Disc 1).toml)
-* [{{ page.title_ids }} - {{ page.title }} (GOTY, Disc 2)](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ page.title_ids }} - {{ page.title }} (GOTY, Disc 2).toml)
+* [{{ page.title_ids }} - {{ page.title }} (Original, NTSC)](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ page.title_ids }} - {{ page.title }} (Original, NTSC).patch.toml)
+* [{{ page.title_ids }} - {{ page.title }} (Original, NTSC, TU9)](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ page.title_ids }} - {{ page.title }} (Original, NTSC, TU9).patch.toml)
+* [{{ page.title_ids }} - {{ page.title }} (GOTY, Disc 1)](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ page.title_ids }} - {{ page.title }} (GOTY, Disc 1).patch.toml)
+* [{{ page.title_ids }} - {{ page.title }} (GOTY, Disc 2)](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ page.title_ids }} - {{ page.title }} (GOTY, Disc 2).patch.toml)

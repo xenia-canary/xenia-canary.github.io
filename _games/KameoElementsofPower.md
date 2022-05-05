@@ -35,6 +35,6 @@ title_id_serials:
 | FPS                         | 30
 
 ## Patches
-* [{{ page.title_ids[0] }} - {{ page.title_patch }}](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ page.title_ids[0] }} - {{ page.title_patch }}.toml)
-* [{{ page.title_ids[1] }} - {{ page.title_patch }} (demo)](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ page.title_ids[1] }} - {{ page.title_patch }} (demo).toml)
-* [{{ page.title_ids[2] }} - {{ page.title_patch }} (kiosk demo)](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ page.title_ids[2] }} - {{ page.title_patch }} (kiosk demo).toml)
+* [{{ page.title_ids[0] }} - {{ page.title_patch }}](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ page.title_ids[0] }} - {{ page.title_patch }}.patch.toml)
+* [{{ page.title_ids[1] }} - {{ page.title_patch }} (demo)](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ page.title_ids[1] }} - {{ page.title_patch }} (demo).patch.toml)
+* [{{ page.title_ids[2] }} - {{ page.title_patch }} (kiosk demo)](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ page.title_ids[2] }} - {{ page.title_patch }} (kiosk demo).patch.toml)

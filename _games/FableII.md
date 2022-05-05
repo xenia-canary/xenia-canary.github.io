@@ -28,5 +28,5 @@ media_ids: 716F0A0D
 | FPS                         | 30
 
 ## Patches
-* [{{ page.title_ids }} - {{ page.title }} (GOTY_Platinum Edition)](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ page.title_ids }} - {{ page.title }} (GOTY_Platinum Edition).toml)
-* [{{ page.title_ids }} - {{ page.title }} (GOTY_Platinum Edition, TU1)](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ page.title_ids }} - {{ page.title }} (GOTY_Platinum Edition, TU1).toml)
+* [{{ page.title_ids }} - {{ page.title }} (GOTY_Platinum Edition)](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ page.title_ids }} - {{ page.title }} (GOTY_Platinum Edition).patch.toml)
+* [{{ page.title_ids }} - {{ page.title }} (GOTY_Platinum Edition, TU1)](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ page.title_ids }} - {{ page.title }} (GOTY_Platinum Edition, TU1).patch.toml)
