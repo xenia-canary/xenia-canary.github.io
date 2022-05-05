@@ -14,13 +14,13 @@ tags:
     - Game
 title_ids:
     - 53510806
-    - 53518810
+    - 53518810 # Demo
 title_id_serials:
     - SQ-2054
-    - SQ-34832
+    - SQ-34832 # Demo
 media_ids: 4835CB45
 ---
-{% capture title_patch %}{{ page.title_ids }} - {{ page.title }}{% endcapture %}
+{% capture title_patch %}{{ page.title_ids[0] }} - {{ page.title }}{% endcapture %}
 
 | Box art                     |
 | :-----:                     | :-
@@ -32,5 +32,5 @@ media_ids: 4835CB45
 | FPS                         | 30
 
 ## Patches
-* [{{ page.title_ids[0] }} - {{ page.title }}](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ title_patch }}.patch.toml)
+* [{{ title_patch }}](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ title_patch }}.patch.toml)
 * [{{ page.title_ids[1] }} - {{ page.title }} Demo](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ title_patch }} Demo.patch.toml)

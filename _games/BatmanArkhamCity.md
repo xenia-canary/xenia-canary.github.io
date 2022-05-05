@@ -10,25 +10,21 @@ categories:
     - Games without media ID
 tags:
     - Game
-#title_ids:
-#title_id_serials:
+title_ids: 57520802
+title_id_serials: WR-2050
 #media_ids:
 ---
-<!--
 {% capture title_patch %}{{ page.title_ids }} - {{ page.title | remove: ":" }}{% endcapture %}
--->
 
 | Box art                     |
 | :-----:                     | :-
-| ![Boxart](https://download-ssl.xbox.com/content/images/66acd000-77fe-1000-9115-d802{{ page.title_ids | downcase }}/1033/boxartlg.jpg)
-| Title ID(s)                 | <!--{{ page.title_ids }} ({{ page.title_id_serials }})-->
+| ![Boxart](https://download-ssl.xbox.com/content/images/66acd000-77fe-1000-9115-d802{{ page.title_ids }}/1033/boxartlg.jpg)
+| Title ID(s)                 | {{ page.title_ids }} ({{ page.title_id_serials }})
 | Media ID(s)                 | <!--{{ page.media_ids }}-->
-| Game compatibility issue(s) | <!--[master](https://github.com/xenia-project/game-compatibility/issues/)-->
+| Game compatibility issue(s) | [master](https://github.com/xenia-project/game-compatibility/issues/317)
 | Resolution(s)               | ####x###
 | FPS                         | 60
 
-<!--
 ## Patches
 * [{{ title_patch }}](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ title_patch }}.patch.toml)
 * [{{ title_patch }} (TU6)](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ title_patch }} (TU6).patch.toml)
--->
