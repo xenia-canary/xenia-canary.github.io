@@ -14,6 +14,7 @@ title_ids: 5343080B
 title_id_serials: SC-2059
 media_ids: 71D29B88
 ---
+{% capture title_patch %}{{ page.title_ids }} - {{ page.title }}{% endcapture %}
 
 | Box art                     |
 | :-----:                     | :-

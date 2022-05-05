@@ -15,6 +15,7 @@ title_ids: 4D5707DB
 title_id_serials: MW-2011
 media_ids: 72123E1F
 ---
+{% capture title_patch %}{{ page.title_ids }} - {{ page.title }}{% endcapture %}
 
 | Box art                     |
 | :-----:                     | :-
@@ -26,4 +27,4 @@ media_ids: 72123E1F
 | FPS                         | 30
 
 ## Patches
-* [{{ page.title_ids }} - {{ page.title }}](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ page.title_ids }} - {{ page.title }}.patch.toml)
+* [{{ title_patch }}](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ title_patch }}.patch.toml)

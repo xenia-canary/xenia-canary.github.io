@@ -15,6 +15,7 @@ title_patch: "Batman Arkham City"
 title_id_serials: WR-2050
 #media_ids:
 ---
+{% capture title_patch %}{{ page.title_ids }} - {{ page.title }}{% endcapture %}
 
 | Box art                     |
 | :-----:                     | :-

@@ -15,6 +15,7 @@ title_ids: 5841090B
 title_id_serials: XA-2315
 media_ids: 4ED33D78
 ---
+{% capture title_patch %}{{ page.title_ids }} - {{ page.title }}{% endcapture %}
 
 | Box art                     |
 | :-----:                     | :-
@@ -26,4 +27,4 @@ media_ids: 4ED33D78
 | FPS                         | 30
 
 ## Patches
-* [{{ page.title_ids }} - {{ page.title }}](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ page.title_ids }} - {{ page.title }}.patch.toml)
+* [{{ title_patch }}](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ title_patch }}.patch.toml)

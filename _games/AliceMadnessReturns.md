@@ -11,11 +11,11 @@ categories:
     - Games without aspect ratio patch
 tags:
     - Game
-title_patch: "Alice Madness Returns"
 title_ids: 45410916
 title_id_serials: EA-2326
 media_ids: 31C4B45C
 ---
+{% capture title_patch %}{{ page.title_ids }} - {{ page.title | remove: ":" }}{% endcapture %}
 
 | Box art                     |
 | :-----:                     | :-
@@ -27,4 +27,4 @@ media_ids: 31C4B45C
 | FPS                         | 30
 
 ## Patches
-* [{{ page.title_ids }} - {{ page.title_patch }}](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ page.title_ids }} - {{ page.title_patch }}.patch.toml)
+* [{{ title_patch }}](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ title_patch }}.patch.toml)

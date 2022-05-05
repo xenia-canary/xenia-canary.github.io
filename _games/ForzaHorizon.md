@@ -13,6 +13,7 @@ title_ids: 4D5309C9
 title_id_serials: MS-2505
 media_ids: 2B7A1346
 ---
+{% capture title_patch %}{{ page.title_ids }} - {{ page.title }}{% endcapture %}
 
 | Box art                     |
 | :-----:                     | :-
@@ -24,4 +25,4 @@ media_ids: 2B7A1346
 | FPS                         | 60
 
 ## Patches
-* [{{ page.title_ids }} - {{ page.title }}](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ page.title_ids }} - {{ page.title }}.patch.toml)
+* [{{ title_patch }}](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ title_patch }}.patch.toml)

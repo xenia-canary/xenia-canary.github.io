@@ -15,6 +15,7 @@ title_patch: "Batman Arkham Origins"
 title_id_serials: WR-2088
 #media_ids:
 ---
+{% capture title_patch %}{{ page.title_ids }} - {{ page.title }}{% endcapture %}
 
 | Box art                     |
 | :-----:                     | :-

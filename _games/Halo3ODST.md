@@ -14,6 +14,7 @@ title_ids: 4D530877
 title_id_serials: MS-2167
 media_ids: 2299898F
 ---
+{% capture title_patch %}{{ page.title_ids }} - {{ page.title }}{% endcapture %}
 
 | Box art                     |
 | :-----:                     | :-

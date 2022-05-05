@@ -14,6 +14,7 @@ title_ids: 584107D5
 title_id_serials: XA-2005
 media_ids: 5C6ABFE7
 ---
+{% capture title_patch %}{{ page.title_ids }} - {{ page.title }}{% endcapture %}
 
 | Box art                     |
 | :-----:                     | :-
@@ -25,4 +26,4 @@ media_ids: 5C6ABFE7
 | FPS                         | 60
 
 ## Patches
-* [{{ page.title_ids }} - {{ page.title }}](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ page.title_ids }} - {{ page.title }}.patch.toml)
+* [{{ title_patch }}](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ title_patch }}.patch.toml)

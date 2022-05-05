@@ -15,6 +15,7 @@ title_ids: 545107F1
 title_id_serials: TQ-2033
 media_ids: 5F7B08F3
 ---
+{% capture title_patch %}{{ page.title_ids }} - {{ page.title }}{% endcapture %}
 
 | Box art                     |
 | :-----:                     | :-
@@ -26,4 +27,4 @@ media_ids: 5F7B08F3
 | FPS                         | 30
 
 ## Patches
-* [{{ page.title_ids }} - {{ page.title }}](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ page.title_ids }} - {{ page.title }}.patch.toml)
+* [{{ title_patch }}](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ title_patch }}.patch.toml)

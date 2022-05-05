@@ -16,6 +16,7 @@ title_ids: 545407F8
 title_id_serials: TT-2040
 media_ids: 5940C9DB
 ---
+{% capture title_patch %}{{ page.title_ids }} - {{ page.title }}{% endcapture %}
 
 | Box art                     |
 | :-----:                     | :-

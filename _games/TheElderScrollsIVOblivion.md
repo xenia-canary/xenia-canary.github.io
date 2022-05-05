@@ -16,6 +16,7 @@ title_ids: 425307D1
 title_id_serials: BS-2001
 media_ids: 013FE217
 ---
+{% capture title_patch %}{{ page.title_ids }} - {{ page.title }}{% endcapture %}
 
 | Box art                     |
 | :-----:                     | :-

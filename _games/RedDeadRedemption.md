@@ -17,6 +17,7 @@ media_ids:
     - 2AAB34E2
     - 3EE87B76 # GOTY
 ---
+{% capture title_patch %}{{ page.title_ids }} - {{ page.title }}{% endcapture %}
 
 | Box art                     |
 | :-----:                     | :-

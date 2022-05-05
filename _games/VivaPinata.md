@@ -16,6 +16,7 @@ title_ids: 4D5307F2
 title_id_serials: MS-2034
 media_ids: 690B3287
 ---
+{% capture title_patch %}{{ page.title_ids }} - {{ page.title }}{% endcapture %}
 
 | Box art                     |
 | :-----:                     | :-

@@ -15,6 +15,7 @@ title_ids: 454107D9
 title_id_serials: EA-2009
 #media_ids:
 ---
+{% capture title_patch %}{{ page.title_ids }} - {{ page.title }}{% endcapture %}
 
 | Box art                     |
 | :-----:                     | :-

@@ -16,6 +16,7 @@ title_ids: 434D0822
 title_id_serials: CM-2082
 media_ids: 536000E3
 ---
+{% capture title_patch %}{{ page.title_ids }} - {{ page.title }}{% endcapture %}
 
 | Box art                     |
 | :-----:                     | :-

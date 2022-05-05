@@ -13,6 +13,7 @@ title_ids: 545107D1
 title_id_serials: TQ-2001
 media_ids: 24367742
 ---
+{% capture title_patch %}{{ page.title_ids }} - {{ page.title }}{% endcapture %}
 
 | Box art                     |
 | :-----:                     | :-

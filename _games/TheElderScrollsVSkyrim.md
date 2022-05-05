@@ -16,6 +16,7 @@ title_ids: 425307E6
 title_id_serials: BS-2022
 media_ids: 34F5B6C3
 ---
+{% capture title_patch %}{{ page.title_ids }} - {{ page.title }}{% endcapture %}
 
 | Box art                     |
 | :-----:                     | :-

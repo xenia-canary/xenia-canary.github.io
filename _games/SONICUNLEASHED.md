@@ -17,6 +17,7 @@ title_ids: 53450812
 title_id_serials: SE-2066
 media_ids: 4BED0DDE
 ---
+{% capture title_patch %}{{ page.title_ids }} - {{ page.title }}{% endcapture %}
 
 | Box art                     |
 | :-----:                     | :-
@@ -28,5 +29,5 @@ media_ids: 4BED0DDE
 | FPS                         | 30
 
 ## Patches
-* [{{ page.title_ids }} - {{ page.title }}](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ page.title_ids }} - {{ page.title }}.patch.toml)
+* [{{ title_patch }}](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ title_patch }}.patch.toml)
 * [{{ page.title_ids }} - {{ page.title }} (TU2)](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ page.title_ids }} - {{ page.title }} (TU2).patch.toml)

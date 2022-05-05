@@ -16,6 +16,7 @@ title_ids: 4D530A26
 title_id_serials: MS-2598
 media_ids: 6DCAF3C2
 ---
+{% capture title_patch %}{{ page.title_ids }} - {{ page.title }}{% endcapture %}
 
 | Box art                     |
 | :-----:                     | :-

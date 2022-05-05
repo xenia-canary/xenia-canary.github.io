@@ -17,6 +17,7 @@ title_ids: 45410806
 title_id_serials: EA-2054
 #media_ids:
 ---
+{% capture title_patch %}{{ page.title_ids }} - {{ page.title }}{% endcapture %}
 
 | Box art                     |
 | :-----:                     | :-

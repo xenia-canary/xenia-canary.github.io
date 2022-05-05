@@ -15,6 +15,7 @@ title_ids: 4D5307D5
 title_id_serials: MS-2005
 media_ids: 76E9DF5B
 ---
+{% capture title_patch %}{{ page.title_ids }} - {{ page.title }}{% endcapture %}
 
 | Box art                     |
 | :-----:                     | :-
@@ -26,5 +27,5 @@ media_ids: 76E9DF5B
 | FPS                         | 30
 
 ## Patches
-* [{{ page.title_ids }} - {{ page.title }}](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ page.title_ids }} - {{ page.title }}.patch.toml)
+* [{{ title_patch }}](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ title_patch }}.patch.toml)
 * [{{ page.title_ids }} - {{ page.title }} (TU5)](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ page.title_ids }} - {{ page.title }} (TU5).patch.toml)

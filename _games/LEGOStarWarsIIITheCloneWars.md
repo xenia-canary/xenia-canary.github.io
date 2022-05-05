@@ -16,6 +16,7 @@ title_ids: 4C4107F3
 title_id_serials: LA-2035
 media_ids: 563D3E40
 ---
+{% capture title_patch %}{{ page.title_ids }} - {{ page.title }}{% endcapture %}
 
 | Box art                     |
 | :-----:                     | :-

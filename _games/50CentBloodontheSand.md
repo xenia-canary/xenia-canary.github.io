@@ -11,11 +11,11 @@ categories:
     - Games without aspect ratio patch
 tags:
     - Game
-title_patch: "50 Cent Blood on the Sand"
 title_ids: 5451083B
 title_id_serials: TQ-2107
 media_ids: 6FF4F789
 ---
+{% capture title_patch %}{{ page.title_ids }} - {{ page.title | remove: ":" }}{% endcapture %}
 
 | Box art                     |
 | :-----:                     | :-
@@ -27,4 +27,4 @@ media_ids: 6FF4F789
 | FPS                         | 30
 
 ## Patches
-* [{{ page.title_ids }} - {{ page.title_patch }}](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ page.title_ids }} - {{ page.title_patch }}.patch.toml)
+* [{{ title_patch }}](https://github.com/xenia-canary/game-patches/blob/main/patches/{{ title_patch }}.patch.toml)

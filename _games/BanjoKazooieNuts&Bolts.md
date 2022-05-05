@@ -16,6 +16,7 @@ title_ids: 4D5307ED
 title_id_serials: MS-2029
 media_ids: 3E567DFF
 ---
+{% capture title_patch %}{{ page.title_ids }} - {{ page.title }}{% endcapture %}
 
 | Box art                     |
 | :-----:                     | :-

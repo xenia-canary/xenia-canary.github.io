@@ -14,6 +14,7 @@ title_ids: 54510850
 title_id_serials: TQ-2128
 media_ids: 675568DB
 ---
+{% capture title_patch %}{{ page.title_ids }} - {{ page.title }}{% endcapture %}
 
 | Box art                     |
 | :-----:                     | :-

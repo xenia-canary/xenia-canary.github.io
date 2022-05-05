@@ -14,6 +14,7 @@ title_ids: 4D53085B
 title_id_serials: MS-2139
 media_ids: 566C10D3
 ---
+{% capture title_patch %}{{ page.title_ids }} - {{ page.title }}{% endcapture %}
 
 | Box art                     |
 | :-----:                     | :-

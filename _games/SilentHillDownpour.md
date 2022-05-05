@@ -16,6 +16,7 @@ title_ids: 4B4E0823
 title_id_serials: KN-2083
 media_ids: 7D387D17
 ---
+{% capture title_patch %}{{ page.title_ids }} - {{ page.title }}{% endcapture %}
 
 | Box art                     |
 | :-----:                     | :-

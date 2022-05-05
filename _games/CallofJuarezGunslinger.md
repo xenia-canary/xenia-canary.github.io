@@ -14,6 +14,7 @@ title_ids: 584112B0
 title_id_serials: XA-4784
 media_ids: 7FDF8AC7
 ---
+{% capture title_patch %}{{ page.title_ids }} - {{ page.title }}{% endcapture %}
 
 | Box art                     |
 | :-----:                     | :-

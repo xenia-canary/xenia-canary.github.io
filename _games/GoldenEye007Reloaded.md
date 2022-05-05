@@ -14,6 +14,7 @@ title_ids: 415608AF
 title_id_serials: AV-2223
 media_ids: 40583A82
 ---
+{% capture title_patch %}{{ page.title_ids }} - {{ page.title }}{% endcapture %}
 
 | Box art                     |
 | :-----:                     | :-

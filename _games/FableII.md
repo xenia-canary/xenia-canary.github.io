@@ -17,6 +17,7 @@ title_ids: 4D5307F1
 title_id_serials: MS-2033
 media_ids: 716F0A0D
 ---
+{% capture title_patch %}{{ page.title_ids }} - {{ page.title }}{% endcapture %}
 
 | Box art                     |
 | :-----:                     | :-

@@ -14,6 +14,7 @@ title_ids: 4C4107D7
 title_id_serials: LA-2007
 media_ids: 5E486FF7
 ---
+{% capture title_patch %}{{ page.title_ids }} - {{ page.title }}{% endcapture %}
 
 | Box art                     |
 | :-----:                     | :-

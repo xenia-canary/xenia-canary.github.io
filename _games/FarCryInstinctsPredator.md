@@ -16,6 +16,7 @@ title_ids: 555307DC
 title_id_serials: US-2012
 media_ids: 4971ECEF
 ---
+{% capture title_patch %}{{ page.title_ids }} - {{ page.title }}{% endcapture %}
 
 | Box art                     |
 | :-----:                     | :-

@@ -15,6 +15,7 @@ title_ids: 4D5309B1
 title_id_serials: MS-2481
 media_ids: 00394009
 ---
+{% capture title_patch %}{{ page.title_ids }} - {{ page.title }}{% endcapture %}
 
 | Box art                     |
 | :-----:                     | :-

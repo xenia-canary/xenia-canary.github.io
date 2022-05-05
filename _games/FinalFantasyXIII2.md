@@ -20,6 +20,7 @@ title_id_serials:
     - SQ-34832
 media_ids: 4835CB45
 ---
+{% capture title_patch %}{{ page.title_ids }} - {{ page.title }}{% endcapture %}
 
 | Box art                     |
 | :-----:                     | :-

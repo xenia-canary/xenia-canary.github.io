@@ -14,6 +14,7 @@ title_ids: 58410908
 title_id_serials: XA-2312
 media_ids: 5DEAE719
 ---
+{% capture title_patch %}{{ page.title_ids }} - {{ page.title }}{% endcapture %}
 
 | Box art                     |
 | :-----:                     | :-
