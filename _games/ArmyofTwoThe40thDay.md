@@ -15,7 +15,7 @@ title_ids: 454108D8
 title_id_serials: EA-2264
 media_ids: 44388CF4
 ---
-{% assign title_patch = {{ page.title_patch | remove: ":" }} %}
+{% assign title_patch = "{{ page.title_patch | remove: ":" }}" %}
 | Box art                     |
 | :-----:                     | :-
 | ![Boxart](https://download-ssl.xbox.com/content/images/66acd000-77fe-1000-9115-d802{{ page.title_ids | downcase }}/1033/boxartlg.jpg)
