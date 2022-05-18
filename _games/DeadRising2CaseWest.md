@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "DEADRISING 2 CASE WEST"
-permalink: /DEADRISING2CASEWEST/
+permalink: /DeadRising2CaseWest/
 categories:
     - Games
     - Games without 720p patch

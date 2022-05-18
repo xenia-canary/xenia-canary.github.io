@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "SONIC UNLEASHED"
-permalink: /SONICUNLEASHED/
+permalink: /SonicUnleashed/
 categories:
     - Games
     - Games with 30 FPS cap
