@@ -24,7 +24,7 @@ media_ids: 651A85DA
 | ![Boxart](https://download-ssl.xbox.com/content/images/66acd000-77fe-1000-9115-d802{{ page.title_ids | downcase }}/1033/boxartlg.jpg)
 | Title ID(s)                 | {{ page.title_ids }} ({{ page.title_id_serials }})
 | Media ID(s)                 | {{ page.media_ids }}
-| Game compatibility issue(s) | [master](https://github.com/xenia-project/game-compatibility/issues/64)
+| Game compatibility issue(s) | [master](https://github.com/xenia-project/game-compatibility/issues/255)
 | Resolution(s)               | 1280x720
 | FPS                         | 30
 
