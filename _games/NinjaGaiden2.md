@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "NINJA GAIDEN 2"
-permalink: /NINJAGAIDEN2/
+permalink: /NinjaGaiden2/
 categories:
     - Games
     - Games with 720p patch
