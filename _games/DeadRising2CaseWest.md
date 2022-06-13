@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "DEADRISING 2 CASE WEST"
+title: "Dead Rising 2: Case West"
 permalink: /DeadRising2CaseWest/
 categories:
     - Games
@@ -13,7 +13,7 @@ title_ids: 58410B00
 title_id_serials: XA-2816
 media_ids: 198BA306
 ---
-{% capture title_patch %}{{ page.title_ids }} - {{ page.title }}{% endcapture %}
+{% capture title_patch %}{{ page.title_ids }} - {{ page.title | remove: ":" }}{% endcapture %}
 
 | Box art                     |
 | :-----:                     | :-

@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "NIER"
-permalink: /NIER/
+title: "Wet"
+permalink: /Wet/
 categories:
     - Games
     - Games with 30 FPS cap
@@ -11,9 +11,9 @@ categories:
     - Games without aspect ratio patch
 tags:
     - Game
-title_ids: 535107E8
-title_id_serials: SQ-2024
-media_ids: 507D2720
+title_ids: 425307DB
+title_id_serials: BS-2011
+media_ids: 666E3BB8
 ---
 {% capture title_patch %}{{ page.title_ids }} - {{ page.title }}{% endcapture %}
 
@@ -22,7 +22,7 @@ media_ids: 507D2720
 | ![Boxart](https://download-ssl.xbox.com/content/images/66acd000-77fe-1000-9115-d802{{ page.title_ids | downcase }}/1033/boxartlg.jpg)
 | Title ID(s)                 | {{ page.title_ids }} ({{ page.title_id_serials }})
 | Media ID(s)                 | {{ page.media_ids }}
-| Game compatibility issue(s) | [master](https://github.com/xenia-project/game-compatibility/issues/414)<br>[canary](https://github.com/xenia-canary/game-compatibility/issues/58)
+| Game compatibility issue(s) | [master](https://github.com/xenia-project/game-compatibility/issues/671)
 | Resolution(s)               | ####x###
 | FPS                         | 30
 
