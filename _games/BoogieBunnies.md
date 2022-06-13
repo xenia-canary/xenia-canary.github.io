@@ -6,6 +6,7 @@ categories:
     - Games
     - Games with 720p patch
     - Games with non-720p resolution
+    - Games with blur
     - Games without aspect ratio patch
     - Games without FPS patch
 tags:
