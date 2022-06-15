@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "SONIC UNLEASHED"
+title: "Sonic Unleashed"
 permalink: /SonicUnleashed/
 categories:
     - Games
