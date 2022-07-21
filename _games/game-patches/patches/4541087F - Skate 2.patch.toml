@@ -1,0 +1,24 @@
+title_name = "Skate 2"
+title_id = "4541087F" # EA-2175
+#hash = "" # default.xex
+#media_id = ""
+
+[[patch]]
+    name = "60 FPS"
+    desc = "Force 60 FPS everywhere regardless of gameplay mode."
+    author = "illusion"
+    is_enabled = false
+
+    [[patch.be32]]
+        address = 0x8232d4e8
+        value = 0x39600001
+
+[[patch]]
+    name = "21:9 Aspect Ratio"
+    desc = "Requires present_letterbox to be changed from true to false in the Xenia config."
+    author = "tuukkas"
+    is_enabled = false
+
+    [[patch.be32]]
+        address = 0x82000bf0
+        value = 0x4002f1bd
